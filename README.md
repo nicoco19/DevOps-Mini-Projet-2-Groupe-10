@@ -2,8 +2,8 @@
 Travail de recherche , mettre en place de l'integration continue avec les GitHub Actions
 
 ## Informations
-- N° de groupe :
-- Membres du groupe :
+- N° de groupe : 10
+- Membres du groupe : Arnaud Alexis, Bosseler Simon, Venturini Nicolas
 
 
 ## Énoncé
