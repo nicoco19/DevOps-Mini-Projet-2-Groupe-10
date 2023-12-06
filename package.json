@@ -11,7 +11,7 @@
     "prettier": "prettier ./src/** --check",
     "prettier:fix": "prettier ./src/** --write",
     "list": "ls -la",
-    "build": "tsc & vite build"
+    "build": "vite build"
   },
   "author": "alexis simon nicolas",
   "license": "ISC",
